@@ -7,11 +7,7 @@ This repository contains a comprehensive manual API testing suite and structured
 
 ---
 
-## 📸 Interactive API Testing Interface (Scalar UI)
 
-![Scalar API Testing Evidence](./Scalar_Testing_Evidence.png)
-
----
 
 ## 📊 Test Execution Dashboard
 * **Total Executed Test Cases:** 15
